@@ -1,4 +1,3 @@
-# hifun
 Bot Invite Hifun Charles Giovanni
 ==================================
 Cara pakai install termux Ketik
